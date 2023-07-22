@@ -1,3 +1,9 @@
+# Abount this assignment:
+* Use existing API code to capture poem lines from well-known poets
+* Write the gathered lines to a .json file for repeated use without the need to access the repo
+* Perform sentiment analysis on the poem's lines
+* Create functions that allow the above steps to be repeated easily
+
 # Requests, JSON, and basic NLP with spaCy
 
 Complete the tasks in the Python Notebook in this repository.
@@ -13,5 +19,3 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 * (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
 * (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
 * (Question 4) Questions answered thoughtfully: 2 pts
-
-# This was a difficult and challenging assignment
